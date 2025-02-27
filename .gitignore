@@ -174,4 +174,4 @@ cython_debug/
 .pypirc
 
 # 追記
-__aiueo__/
+# __aiueo__/
